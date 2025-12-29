@@ -7,6 +7,14 @@
 
   <img src="puff.svg" alt="icon" width="25" height="25" />
   
+### 🛠️ My Tech Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode&perline=10" />
+  </a>
+</p>
+  
 ### GitHub Stats
 
 <p align="left">
