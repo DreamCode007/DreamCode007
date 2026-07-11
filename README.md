@@ -18,7 +18,7 @@
 ### GitHub Stats
 
 <p align="left">
-  <img src="[![DreamCode's GitHub stats](https://github-stats-extended.vercel.app/api?username=DreamCode007)](https://github.com/stats-organization/github-stats-extended)" alt="GitHub Stats" />
+  <img src="[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=DreamCode007&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=DreamCode007&show_icons=true&include_all_commits=true&theme=transparent)" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamCode007&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" alt="Top Languages" />
 </p>
 <p align="center">
