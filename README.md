@@ -24,7 +24,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DreamCode007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=DreamCode007&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/DreamCode007)
+
 
 
 
